@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#6d0094</color>
+    <color name="colorPrimaryDark">#6d0094</color>
+    <color name="colorAccent">#ff2068</color>
+    <color name="colorAccentSecondary">#ad1a7f</color>
+    <color name="viewBg">#f8f8f8</color>
+    <color name="btn_disabled">#999</color>
+    <color name="lbl_value">#222222</color>
+
+
+
+    <color name="windowBackground">#FFFFFF</color>
+
+
+    <!--Contacts Listing card(cl)-->
+
+    <color name="cl_name_text_color">#000000</color>
+    <color name="cl_address_text_color">#828282</color>
+    <color name="cl_email_text_color">#4F4F4F</color>
+    <color name="cl_number_text_color">#4F4F4F</color>
+    <color name="cl_delete_drawable_color">#EB5757</color>
+    <color name="cl_icon_drawable_enable_color">#219653</color>
+    <color name="cl_icon_drawable_disable_color">#828282</color>
+    <color name="dividerLineColor">#E0E0E0</color>
 </resources>
